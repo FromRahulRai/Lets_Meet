@@ -7,6 +7,7 @@ import { SignedIn, SignedOut, SignInButton } from '@clerk/nextjs'
 import UserMenu from './user-menu'
 
 const Header = () => {
+  
   return (
     <nav className='mx-auto py-1 px-4 flex justify-between items-center shadow-md border-b-2'>
 
